@@ -1,0 +1,6 @@
+00:1A:79:31:EA:F6
+http://livego.club:8080/get.php?username=s7FTmNqrd56Y&password=tYu56zCkAfrS&type=m3u_plus&output=ts
+5c:c1:d7:1a:fa:42
+http://sanaltv.nuaktv.vip:2095/get.php?username=Sener@.75&password=JZgQgPZ2zbNQ&type=m3u_plus&output=mpegts
+5c:c1:d7:1b:7b:37
+http://otthome.xyz:8080/get.php?username=BoldiBogdan&password=sdhmxukmGH&type=m3u_plus&output=ts
