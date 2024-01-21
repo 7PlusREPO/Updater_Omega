@@ -1,10 +1,10 @@
 00:1A:79:31:EA:F6
-http://livego.club:8080/get.php?username=s7FTmNqrd56Y&password=tYu56zCkAfrS&type=m3u_plus&output=ts
+http://newreality2020.com:25461/get.php?username=ricardolux&password=12345&type=m3u_plus
 5c:c1:d7:1a:fa:42
-http://sanaltv.nuaktv.vip:2095/get.php?username=Sener@.75&password=JZgQgPZ2zbNQ&type=m3u_plus&output=mpegts
+http://bc.peugaut.com:8080/get.php?username=ngdrmdam&password=3FcmE727ph&type=m3u_plus
 5c:c1:d7:1b:7b:37
-http://otthome.xyz:8080/get.php?username=BoldiBogdan&password=sdhmxukmGH&type=m3u_plus&output=ts
+http://caganascalcas.top:80/get.php?username=5bUY06pCNp&password=HFyXXI1IZr&type=m3u_plus
 5c:c1:d7:1c:1a:e5
-http://00322.xyz:8000/get_php?username=mellivictor&password=9NFITJ9&type=m3u_plus&output=hls
+http://caganascalcas.top:80/get.php?username=5bUY06pCNp&password=HFyXXI1IZr&type=m3u_plus&output=m3u8
 5c:c1:d7:1b:28:79
-http://premium.edymax.cf:8080/get.php?username=migueldacosta&password=bCwkaNnaN9&type=m3u_plus&output=mpegts
+http://rafadnsvip.live:8080/get.php?username=yjosecosta&password=g8FHxnX9qm&type=m3u_plus
