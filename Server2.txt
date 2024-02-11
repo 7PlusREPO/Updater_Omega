@@ -1,10 +1,5 @@
-00:1A:79:31:EA:F6
 http://newreality2020.com:25461/get.php?username=ricardolux&password=12345&type=m3u_plus
-5c:c1:d7:1a:fa:42
 http://bc.peugaut.com:8080/get.php?username=ngdrmdam&password=3FcmE727ph&type=m3u_plus
-5c:c1:d7:1b:7b:37
 http://caganascalcas.top:80/get.php?username=5bUY06pCNp&password=HFyXXI1IZr&type=m3u_plus
-5c:c1:d7:1c:1a:e5
 http://caganascalcas.top:80/get.php?username=5bUY06pCNp&password=HFyXXI1IZr&type=m3u_plus&output=m3u8
-5c:c1:d7:1b:28:79
 http://rafadnsvip.live:8080/get.php?username=yjosecosta&password=g8FHxnX9qm&type=m3u_plus
