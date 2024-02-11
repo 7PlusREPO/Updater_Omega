@@ -1,1 +1,10 @@
 http://emuligl.info:8080/get.php?username=tviritv&password=td6522SNAtHt&type=m3u_plus
+http://78.159.119.122:2095/get.php?username=Tourobox3-0isXakxRl8&password=QK9sy1JbCc&type=m3u_plus&output=ts
+http://78.159.119.122:2095/get.php?username=Tourobox3-FIaaPAeXLD&password=cs1pYw8JwX&type=m3u_plus&output=ts
+http://78.159.119.122:2095/get.php?username=Tourobox2-anezsjLIvy&password=GPgdpsP3Gi&type=m3u_plus&output=ts
+http://78.159.119.122:2095/get.php?username=Tourobox2-XeLAp48BGM&password=bC0gz9DJGN&type=m3u_plus&output=ts
+http://78.159.119.122:2095/get.php?username=Tourobox2-K8LK3Iv4HG&password=DeBwFQC0yy&type=m3u_plus&output=ts
+http://78.159.119.122:2095/get.php?username=Tourobox1-zfvlU01rNO&password=CPwysTThD7&type=m3u_plus&output=ts
+http://78.159.119.122:2095/get.php?username=suspected-TR1-11i1PoWFgd&password=5RHeSAZdmZ&type=m3u_plus&output=ts
+http://78.159.119.122:2095/get.php?username=Tourobox2-2EovorRN7b&password=rnWzQsS4zy&type=m3u_plus&output=ts
+http://78.159.119.122:2095/get.php?username=Tourobox2-O6HA82XUpA&password=pbru6594aR&type=m3u_plus&output=ts
